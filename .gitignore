@@ -9,21 +9,6 @@
 *.userosscache
 *.sln.docstates
 
-
-# Visual Studio 2017 auto generated files
-Generated\ Files/
-
-
-# Benchmark Results
-BenchmarkDotNet.Artifacts/
-
-# .NET Core
-project.lock.json
-project.fragment.lock.json
-artifacts/
-**/Properties/launchSettings.json
-
-
 # Files built by Visual Studio
 *_i.c
 *_p.c
@@ -51,27 +36,6 @@ artifacts/
 *.pidb
 *.svclog
 *.scc
-
-# Web workbench (sass)
-.sass-cache/
-
-# Installshield output folder
-[Ee]xpress/
-
-
-# Click-Once directory
-publish/
-
-# Note: Comment the next line if you want to checkin your web deploy settings,
-# but database connection strings (with potential passwords) will be unencrypted
-*.pubxml
-*.publishproj
-
-# Microsoft Azure Web App publish settings. Comment the next line if you want to
-# checkin your Azure Web App publish settings, but sensitive information contained
-# in these scripts will be unencrypted
-PublishScripts/
-
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
